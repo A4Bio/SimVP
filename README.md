@@ -3,7 +3,7 @@
 This repository contains the implementation code for paper:
 
 **SimVP: Simpler yet Better Video Prediction**  
-[Zhangyang Gao](https://westlake-drug-discovery.github.io/cheng_tan.html), [Cheng Tan](https://westlake-drug-discovery.github.io/cheng_tan.html), [Lirong Wu](https://lirongwu.github.io/), [Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl). In [CVPR](), 2022.
+[Zhangyang Gao](https://westlake-drug-discovery.github.io/zhangyang_gao.html), [Cheng Tan](https://westlake-drug-discovery.github.io/cheng_tan.html), [Lirong Wu](https://lirongwu.github.io/), [Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl). In [CVPR](), 2022.
 ## Introduction
 
 <p align="center">
