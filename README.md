@@ -50,7 +50,14 @@ We provide a [Google Drive link](https://drive.google.com/drive/folders/19X2zNWE
 If you are interested in our repository and our paper, please cite the following paper:
 
 ```
-TBD
+@InProceedings{Gao_2022_CVPR,
+    author    = {Gao, Zhangyang and Tan, Cheng and Wu, Lirong and Li, Stan Z.},
+    title     = {SimVP: Simpler Yet Better Video Prediction},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {3170-3180}
+}
 ```
 
 ## Contact
