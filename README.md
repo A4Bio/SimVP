@@ -43,7 +43,7 @@ This project has provided an environment setting file of conda, users can easily
 
 ### TaxiBJ dataset
 
-We provide a [Google Drive link](https://drive.google.com/drive/folders/19X2zNWEQi7AkhM-ks8J6RmESfBYjJ2f6) to download TaxiBJ dataset. Users can download this dataset and put it into `./data/taxibj`.
+We provide a [Dropbox](https://www.dropbox.com/sh/l9drnyeftcmy3j1/AACCgUyOj2akPNBwFAe9W1-ia?dl=0) to download TaxiBJ dataset. Users can download this dataset and put it into `./data/taxibj`.
 
 ## Citation
 
