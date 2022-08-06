@@ -47,7 +47,7 @@ We provide a [Dropbox](https://www.dropbox.com/sh/l9drnyeftcmy3j1/AACCgUyOj2akPN
 
 ### KTH dataset
 
-We provide a [Dropbox]([https://www.dropbox.com/sh/l9drnyeftcmy3j1/AACCgUyOj2akPNBwFAe9W1-ia?dl=0](https://www.dropbox.com/sh/8d3uwyp4jru0yih/AABP-nXlN6eHW2xOrkfCn7Woa?dl=0)) to download the KTH dataset.
+We provide a [Dropbox](https://www.dropbox.com/sh/8d3uwyp4jru0yih/AABP-nXlN6eHW2xOrkfCn7Woa?dl=0) to download the KTH dataset.
 
 
 ## Citation
