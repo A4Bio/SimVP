@@ -45,6 +45,11 @@ This project has provided an environment setting file of conda, users can easily
 
 We provide a [Dropbox](https://www.dropbox.com/sh/l9drnyeftcmy3j1/AACCgUyOj2akPNBwFAe9W1-ia?dl=0) to download TaxiBJ dataset. Users can download this dataset and put it into `./data/taxibj`.
 
+### KTH dataset
+
+We provide a [Dropbox]([https://www.dropbox.com/sh/l9drnyeftcmy3j1/AACCgUyOj2akPNBwFAe9W1-ia?dl=0](https://www.dropbox.com/sh/8d3uwyp4jru0yih/AABP-nXlN6eHW2xOrkfCn7Woa?dl=0)) to download the KTH dataset.
+
+
 ## Citation
 
 If you are interested in our repository and our paper, please cite the following paper:
