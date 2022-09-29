@@ -1,4 +1,7 @@
 # SimVP: Simpler yet Better Video Prediction
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)![GitHub stars](https://img.shields.io/github/stars/gaozhangyang/SimVP-Simpler-yet-Better-Video-Prediction)  ![GitHub forks](https://img.shields.io/github/forks/gaozhangyang/SimVP-Simpler-yet-Better-Video-Prediction?color=green) 
+
+
 
 This repository contains the implementation code for paper:
 
