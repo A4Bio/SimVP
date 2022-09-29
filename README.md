@@ -1,5 +1,5 @@
 # SimVP: Simpler yet Better Video Prediction
-[![GitHub stars](https://img.shields.io/github/stars/gaozhangyang/SimVP-Simpler-yet-Better-Video-Prediction)  ![GitHub forks](https://img.shields.io/github/forks/gaozhangyang/SimVP-Simpler-yet-Better-Video-Prediction?color=green) 
+![GitHub stars](https://img.shields.io/github/stars/gaozhangyang/SimVP-Simpler-yet-Better-Video-Prediction)  ![GitHub forks](https://img.shields.io/github/forks/gaozhangyang/SimVP-Simpler-yet-Better-Video-Prediction?color=green) 
 
 
 
