@@ -1,7 +1,7 @@
 # SimVP: Simpler yet Better Video Prediction
 ![GitHub stars](https://img.shields.io/github/stars/gaozhangyang/SimVP-Simpler-yet-Better-Video-Prediction)  ![GitHub forks](https://img.shields.io/github/forks/gaozhangyang/SimVP-Simpler-yet-Better-Video-Prediction?color=green) 
 
-
+**In the example, the default epoch is 50. Please read our paper, and train 1000~2000 epochs for repruducing this work!** I will not respond to such a lowly mistake.
 
 This repository contains the implementation code for paper:
 
