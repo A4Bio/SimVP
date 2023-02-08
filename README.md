@@ -3,7 +3,7 @@
 
 **In the example, the default epoch is 50. Please read our paper, and train 1000~2000 epochs for repruducing this work!** I will not respond to such a lowly mistake.
 
-**SimVPv2 is available on https://github.com/chengtan9907/SimVPv2, which performs better than SimVP and is in the review process.** If our work is helpful for your research, we would hope you give us a star and citation. Thanks!
+**SimVPv2 is available on https://github.com/chengtan9907/SimVPv2, which performs better than SimVP (15.04 MSE on Moving MNIST) and is in the review process.** If our work is helpful for your research, we would hope you give us a star and citation. Thanks!
 
 This repository contains the implementation code for paper:
 
